@@ -1,0 +1,3 @@
+Help! I need to solve this CTF to win the competition, but I can't seem to figure it out! Can you help me find it?
+
+I do know that the flag is encrypted using this website: https://anycript.com/crypto
